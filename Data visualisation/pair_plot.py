@@ -1,0 +1,1 @@
+# displays a pair plot or a scatter plot matric 
